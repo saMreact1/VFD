@@ -1,0 +1,16 @@
+
+ ul {list-style-type:none;
+    color:black;
+    margin:0;
+    overflow:hidden;
+    padding:0; background-color:#333333}
+
+li {float:center;
+    color:black;}
+
+li a {diplay:block; color:white; text-align:center;
+    padding:16px; text-decoration:none;}
+
+li a:hover {background-color:#111111}
+
+p { text-align: center;}
