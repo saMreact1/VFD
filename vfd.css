@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     color: rgb(0, 104, 99);
     width: 100%;
@@ -14,7 +17,7 @@ div.logo{
 }
 div.top{
     width: 100%;
-    font-size: 9px;
+    font-size: 15px;
 }
 div#nav{
     vertical-align: super;
@@ -39,7 +42,7 @@ a#cont{
 i{
     padding: 2px;
     color: red;
-    font-size: 7px;
+    font-size: 15px;
 }
 span.cont{
     float: right;
@@ -54,13 +57,10 @@ a.lm {
     padding: 4px;
     border-radius: 4px;
 }
-*{
-    box-sizing: border-box;
-}
 .para{
     float: left;
     width: 50%;
-    font-size: 10px;
+    font-size: 15px;
 }
 .container{
     display: inline-block;
@@ -69,9 +69,9 @@ a.lm {
     width: 100%;
 }
 #meet{
-    margin-left: 20px;
-    height: 150px;
-    width: 200px;
+    margin-left: 50px;
+    height: 200px;
+    width: 400px;
     border-style: inset;
     border-radius: 4px;
 }
