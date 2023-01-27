@@ -63,12 +63,6 @@ a.lm {
     width: 50%;
     font-size: 15px;
 }
-.container{
-    display: inline-block;
-    padding: 0px 60px;
-    margin: 20px 20px;
-    width: 100%;
-}
 #meet{
     margin-left: 50px;
     height: 200px;
@@ -76,10 +70,16 @@ a.lm {
     border-style: inset;
     border-radius: 4px;
 }
+.container{
+    display: inline-block;
+    padding: 0px 60px;
+    margin: 20px 20px;
+    width: 100%;
+}
 .container1{
     display: inline-block;
     text-align: center;
-    font-size: 8px;
+    font-size: 15px;
     padding-left: 60px;
     width: 100%;
 }
@@ -88,18 +88,29 @@ a.lm {
     width: 20%;
     padding: 15px;
 }
+.par1b {
+    font-size: 20px;
+}
 p.fig{
-    border-left: 2px solid rgb(0, 104, 99);
+    border-left: 4px solid rgb(0, 104, 99);
+    padding-left: 15px;
+    text-align: left;
 }
 .container2{
     display: inline-block;
     padding: 10px 50px;
-    font-size: 8px;
-    margin: 20px;
+    font-size: 15px;
+    margin: 0 20px;
 }
 .para2{
     float: left;
     width: 31%;
+}
+#par1 {
+    margin-right: 60px;
+}
+.para2a {
+    height: 150px;
 }
 .para2a{
     border: 0.3px solid rgb(196, 193, 193);
