@@ -110,7 +110,8 @@ p.fig{
     margin-right: 50px;
 }
 .para2a {
-    height: 150px;
+    height: 200px;
+    overflow: auto;
 }
 .para2a{
     border: 0.3px solid rgb(196, 193, 193);
